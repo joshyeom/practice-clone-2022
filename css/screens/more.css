@@ -1,0 +1,24 @@
+.phone-number__exclamationmark{
+   color: red;
+   position: absolute;
+   right: -20px;
+   bottom: 21px;
+}
+
+.user-component__column {
+    position: relative;
+}
+
+.more-screen .icon-row {
+    margin-top: 35px;
+}
+
+.more-suggestions__title {
+    margin-top: 50px;
+    border-top: var(--main-border);
+    padding-top: 40px;
+}
+
+.more.more-suggestions__title {
+    margin-bottom: 30px;
+}
